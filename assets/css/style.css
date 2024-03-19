@@ -1,0 +1,11 @@
+body{
+    /* seperacion */
+    padding: 20px 100px ;
+    font-family: "Madimi One", sans-serif;
+}
+/* llamar clase con un "." */
+/* llamar id con un "#" */
+.foto{
+    /* border radius es para redondear los bordes */
+    border-radius: 15px ;
+}
